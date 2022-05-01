@@ -1,4 +1,4 @@
-# Predicting Reviews Rating using Natural Language Processing (NLP) under RandomForest Calssifier, Support Vector Machine (SVM) and Multi_Layer Nueral Networks
+# Predicting Reviews Rating using Natural Language Processing (NLP) under RandomForest Calssifier, Support Vector Machine (SVM) and Multi_Layer Neural Networks
 ## Packages: Sklearn, tensorflow, keras
 
 The Multi_Layer Neural Network produces RMSE = 0.70 & Rsquare = 67.4%
